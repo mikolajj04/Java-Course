@@ -1,2 +1,2 @@
-# Java-course
-Java course repository
+# Java Programming Course 
+Exercises and code samples from weekly sessions.
