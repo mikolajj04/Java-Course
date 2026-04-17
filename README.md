@@ -1,2 +1,2 @@
-# Java-project
+# Java-course
 Java course repository
